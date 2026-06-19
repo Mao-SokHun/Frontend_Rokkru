@@ -1,7 +1,8 @@
 # Frontend Structure — Review Guide
 
 > RokKru (`frontend/`) — folder layout, MVC layers, and page-to-hook mapping for code review.  
-> Stack: **React 19 + Vite 8 + Tailwind CSS + react-router-dom 7**
+> Stack: **React 19 + Vite 8 + Tailwind CSS + react-router-dom 7**  
+> **Call chain (ហៅប្រើ / ភ្ជាប់គ្នា):** [STRUCTURE_FLOW.md](./STRUCTURE_FLOW.md)
 
 ---
 
